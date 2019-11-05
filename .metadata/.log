@@ -1,0 +1,140 @@
+!SESSION 2019-11-05 15:21:20.379 -----------------------------------------------
+eclipse.buildId=4.4.1.201910232221-RELEASE
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/Kyle/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/Kyle/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-11-05 15:21:46.123
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jface 2 0 2019-11-05 15:21:47.697
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-11-05 15:21:47.697
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2ed7978c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@30665461,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 2 2 2019-11-05 15:42:53.964
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:08.960
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:08.964
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@15c8b75c[org.springframework.tooling.boot.ls:1.12.0.201910232051(id=626)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:08.967
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:09.083
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:33.595
+!MESSAGE Boot LS startup time from start to initialized: 24603ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:33.676
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.eiDUAOgyisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:33.682
+!MESSAGE subscribing to classpath changes: sts4.classpath.eiDUAOgy isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:33.688
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:33.699
+!MESSAGE subsribers = {sts4.classpath.eiDUAOgy=Send Classpath Notifications(179)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:33.700
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:33.703
+!MESSAGE project firstproject ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:33.706
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:33.707
+!MESSAGE Preparing classpath changed notification firstproject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:33.707
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:33.709
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.eiDUAOgy => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:33.724
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:33.726
+!MESSAGE buffering callback sts4.classpath.eiDUAOgy firstproject false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:33.727
+!MESSAGE executing callback sts4.classpath.eiDUAOgy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:46:33.782
+!MESSAGE executing callback sts4.classpath.eiDUAOgy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:51:03.797
+!MESSAGE Preparing classpath changed notification Strings
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:51:03.799
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:51:03.801
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:51:03.802
+!MESSAGE buffering callback sts4.classpath.eiDUAOgy Strings false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:51:03.802
+!MESSAGE executing callback sts4.classpath.eiDUAOgy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:51:03.819
+!MESSAGE executing callback sts4.classpath.eiDUAOgy SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:51:04.187
+!MESSAGE Preparing classpath changed notification Strings
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:51:04.188
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:51:04.192
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:51:04.194
+!MESSAGE buffering callback sts4.classpath.eiDUAOgy Strings false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:51:04.195
+!MESSAGE executing callback sts4.classpath.eiDUAOgy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-05 15:51:04.209
+!MESSAGE executing callback sts4.classpath.eiDUAOgy SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-11-05 15:55:00.761
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:347)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1915)
+	at org.springframework.tooling.boot.ls.jdt.LSPTextHover.getHoverInfo(LSPTextHover.java:109)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
