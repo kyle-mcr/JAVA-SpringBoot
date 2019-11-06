@@ -3,6 +3,8 @@ package com.kyle.web.date;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+import javax.servlet.http.HttpSession;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -42,7 +44,18 @@ public class HomeController {
 	return "time.jsp";
 	
 }
-		
+	@RequestMapping("/counter")
+    public String index(HttpSession session, Model model){
+	        Integer counter = (Integer)session.getAttribute("count");
+	        if(counter == null) {
+	        	session.setAttribute("count", 0);
+	        } else {
+	        counter++;
+	        session.setAttribute("count", counter);
+	        }
+	        model.addAttribute("count", counter);
+        return "counter.jsp";
+    }
 	
 }
 

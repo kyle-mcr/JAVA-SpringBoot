@@ -5,13 +5,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Home Page</title>
+<title>Insert title here</title>
 </head>
 <body>
-<h1>Hello!</h1>
 <c:out value="${count}"/>
-<h2>Welcome, <c:out value="${dojoName}"/> Cohort</h2>
-<p><a href="/date">Show me the date</a></p>
-<p><a href="/time">Show me the time</a></p>
 </body>
 </html>
