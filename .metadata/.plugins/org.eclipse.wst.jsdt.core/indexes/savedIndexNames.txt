@@ -1,5 +1,2 @@
 INDEX VERSION 1.4+/Users/Kyle/Desktop/springPlatform/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-1353263083.index
-334852881.index
-1674845547.index
-1173192769.index
+2992500875.index
