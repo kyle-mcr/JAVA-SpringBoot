@@ -1574,3 +1574,165 @@ Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 15:41:59.140
 !MESSAGE executing callback sts4.classpath.iHiQdBzf SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:54:59.535
+!MESSAGE Preparing classpath changed notification DojoSurvey
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:54:59.537
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:54:59.539
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:54:59.540
+!MESSAGE buffering callback sts4.classpath.iHiQdBzf DojoSurvey false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:54:59.542
+!MESSAGE executing callback sts4.classpath.iHiQdBzf 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:54:59.589
+!MESSAGE executing callback sts4.classpath.iHiQdBzf SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:54:59.910
+!MESSAGE Preparing classpath changed notification DojoSurvey
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:54:59.911
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:54:59.914
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:54:59.917
+!MESSAGE buffering callback sts4.classpath.iHiQdBzf DojoSurvey false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:54:59.918
+!MESSAGE executing callback sts4.classpath.iHiQdBzf 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:54:59.943
+!MESSAGE executing callback sts4.classpath.iHiQdBzf SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:00.865
+!MESSAGE Preparing classpath changed notification DojoSurvey
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:00.865
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:00.868
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:00.869
+!MESSAGE buffering callback sts4.classpath.iHiQdBzf DojoSurvey false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:00.869
+!MESSAGE executing callback sts4.classpath.iHiQdBzf 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:00.877
+!MESSAGE executing callback sts4.classpath.iHiQdBzf SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:01.003
+!MESSAGE Preparing classpath changed notification DojoSurvey
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:01.004
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:01.006
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:01.008
+!MESSAGE buffering callback sts4.classpath.iHiQdBzf DojoSurvey false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:01.008
+!MESSAGE executing callback sts4.classpath.iHiQdBzf 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:01.013
+!MESSAGE executing callback sts4.classpath.iHiQdBzf SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:01.074
+!MESSAGE Preparing classpath changed notification DojoSurvey
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:01.075
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:01.077
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:01.079
+!MESSAGE buffering callback sts4.classpath.iHiQdBzf DojoSurvey false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:01.079
+!MESSAGE executing callback sts4.classpath.iHiQdBzf 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:01.084
+!MESSAGE executing callback sts4.classpath.iHiQdBzf SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:03.452
+!MESSAGE Preparing classpath changed notification DojoSurvey
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:03.454
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:03.456
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:03.458
+!MESSAGE buffering callback sts4.classpath.iHiQdBzf DojoSurvey false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:03.459
+!MESSAGE executing callback sts4.classpath.iHiQdBzf 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:03.474
+!MESSAGE executing callback sts4.classpath.iHiQdBzf SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:05.087
+!MESSAGE Preparing classpath changed notification DojoSurvey
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:05.088
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:05.090
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:05.092
+!MESSAGE buffering callback sts4.classpath.iHiQdBzf DojoSurvey false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:05.092
+!MESSAGE executing callback sts4.classpath.iHiQdBzf 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:05.099
+!MESSAGE executing callback sts4.classpath.iHiQdBzf SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:11.025
+!MESSAGE Preparing classpath changed notification DojoSurvey
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:11.030
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:11.035
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:11.036
+!MESSAGE buffering callback sts4.classpath.iHiQdBzf DojoSurvey false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:11.037
+!MESSAGE executing callback sts4.classpath.iHiQdBzf 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:55:11.054
+!MESSAGE executing callback sts4.classpath.iHiQdBzf SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:59:03.589
+!MESSAGE Preparing classpath changed notification DojoSurvey
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:59:03.591
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:59:03.595
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:59:03.597
+!MESSAGE buffering callback sts4.classpath.iHiQdBzf DojoSurvey false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:59:03.597
+!MESSAGE executing callback sts4.classpath.iHiQdBzf 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-06 17:59:03.636
+!MESSAGE executing callback sts4.classpath.iHiQdBzf SUCCESS [done]
