@@ -24,6 +24,11 @@ public class BookService {
     public Book createBook(Book b) {
         return bookRepository.save(b);
     }
+    public Book deleteBook(Long x) {
+    	bookRepository.deleteById(x);
+        return (Book) bookRepository;
+    }
+    
     // retrieves a book
     public Book findBook(Long id) {
         Optional<Book> optionalBook = bookRepository.findById(id);
@@ -33,4 +38,5 @@ public class BookService {
             return null;
         }
     }
+
 }
