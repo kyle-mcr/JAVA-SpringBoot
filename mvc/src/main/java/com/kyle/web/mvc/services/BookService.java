@@ -28,7 +28,10 @@ public class BookService {
     	bookRepository.deleteById(x);
         return (Book) bookRepository;
     }
-    
+    public Book updateBook(Book b) {
+        return bookRepository.save(b);
+
+	}
     // retrieves a book
     public Book findBook(Long id) {
         Optional<Book> optionalBook = bookRepository.findById(id);
