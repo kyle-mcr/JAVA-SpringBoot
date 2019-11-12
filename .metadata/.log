@@ -2842,3 +2842,1846 @@ org.eclipse.core.internal.resources.ResourceException: Marker id 319 not found.
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
 !SUBENTRY 1 org.eclipse.core.resources 4 376 2019-11-08 14:02:28.915
 !MESSAGE Marker id 319 not found.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-09 11:11:26.542
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.iHiQdBzf
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-09 11:11:26.551
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.iHiQdBzf
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-09 11:11:26.553
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-09 11:11:26.557
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.iHiQdBzf => OK
+!SESSION 2019-11-11 14:57:06.132 -----------------------------------------------
+eclipse.buildId=4.4.1.201910232221-RELEASE
+java.version=1.8.0_231
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/Kyle/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/Kyle/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-11-11 14:57:20.515
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.jface 2 0 2019-11-11 14:57:22.212
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-11-11 14:57:22.212
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@13d5606c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6bf54260,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:57:34.479
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:57:34.482
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@14c7ab73[org.springframework.tooling.boot.ls:1.12.0.201910232051(id=626)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:57:34.493
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:57:34.918
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:19.798
+!MESSAGE Boot LS startup time from start to initialized: 45228ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:20.524
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.CWBlCYmQisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:20.651
+!MESSAGE subscribing to classpath changes: sts4.classpath.CWBlCYmQ isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:20.683
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:20.697
+!MESSAGE subsribers = {sts4.classpath.CWBlCYmQ=Send Classpath Notifications(158)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:20.697
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:20.698
+!MESSAGE project mvc ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:20.700
+!MESSAGE project Date ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:20.701
+!MESSAGE Preparing classpath changed notification mvc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:20.702
+!MESSAGE project DojoSurvey ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:20.702
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:20.702
+!MESSAGE project Hello ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:20.703
+!MESSAGE project Routing ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:20.707
+!MESSAGE project Strings ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:20.708
+!MESSAGE project TheCode ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:20.713
+!MESSAGE project firstproject ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:20.713
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:20.718
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.CWBlCYmQ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:21.842
+!MESSAGE classpath=116 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:21.850
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ mvc false 116
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:21.854
+!MESSAGE Preparing classpath changed notification Date
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:21.855
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:21.971
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:21.973
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ Date false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:21.976
+!MESSAGE Preparing classpath changed notification DojoSurvey
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:21.977
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:21.987
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:21.990
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ DojoSurvey false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:21.991
+!MESSAGE Preparing classpath changed notification Hello
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:21.994
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.005
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.008
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ Hello false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.009
+!MESSAGE Preparing classpath changed notification Routing
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.011
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.021
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.023
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ Routing false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.024
+!MESSAGE Preparing classpath changed notification Strings
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.025
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.032
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.034
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ Strings false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.038
+!MESSAGE Preparing classpath changed notification TheCode
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.039
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.047
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.049
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ TheCode false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.050
+!MESSAGE Preparing classpath changed notification firstproject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.051
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.061
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.065
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ firstproject false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.067
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 8 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 14:58:22.437
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2019-11-11 15:18:07.843
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:40.161
+!MESSAGE Preparing classpath changed notification lookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:40.163
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:40.167
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:40.169
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ lookify false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:40.169
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:40.229
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:45.685
+!MESSAGE Preparing classpath changed notification lookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:45.686
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:45.690
+!MESSAGE classpath=89 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:45.693
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ lookify false 89
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:45.693
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:45.704
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:47.671
+!MESSAGE Preparing classpath changed notification lookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:47.674
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:47.678
+!MESSAGE classpath=89 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:47.683
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ lookify false 89
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:47.684
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:47.712
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:48.142
+!MESSAGE Preparing classpath changed notification lookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:48.144
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:48.149
+!MESSAGE classpath=89 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:48.151
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ lookify false 89
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:48.151
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:48.162
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:48.303
+!MESSAGE Preparing classpath changed notification lookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:48.304
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:48.309
+!MESSAGE classpath=89 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:48.310
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ lookify false 89
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:48.311
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 15:24:48.320
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2019-11-11 16:28:11.013
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2019-11-11 16:28:15.857
+!MESSAGE Connection to http://www.pramati.com/downloads/eclipse/updates/site.xml failed on sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target. Retry attempt 0 started
+!STACK 0
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1946)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:316)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:310)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1640)
+	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:223)
+	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:1037)
+	at sun.security.ssl.Handshaker.process_record(Handshaker.java:965)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1064)
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1367)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1395)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1379)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:396)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:355)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:397)
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:302)
+	at sun.security.validator.Validator.validate(Validator.java:262)
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:330)
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:237)
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:132)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1622)
+	... 23 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:141)
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:126)
+	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:392)
+	... 29 more
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2019-11-11 16:28:16.325
+!MESSAGE Connection to http://www.pramati.com/downloads/eclipse/updates/p2.index failed on sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target. Retry attempt 0 started
+!STACK 0
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1946)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:316)
+	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:310)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1640)
+	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:223)
+	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:1037)
+	at sun.security.ssl.Handshaker.process_record(Handshaker.java:965)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1064)
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1367)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1395)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1379)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.createLayeredSocket(SSLConnectionSocketFactory.java:396)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:355)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:373)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:394)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:397)
+	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:302)
+	at sun.security.validator.Validator.validate(Validator.java:262)
+	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:330)
+	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:237)
+	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:132)
+	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1622)
+	... 23 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:141)
+	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:126)
+	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:392)
+	... 29 more
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 16:28:21.491
+!MESSAGE Preparing classpath changed notification lookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 16:28:21.494
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 16:28:21.500
+!MESSAGE classpath=126 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 16:28:21.502
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ lookify false 126
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 16:28:21.502
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 16:28:21.587
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 16:28:25.500
+!MESSAGE Could not download sources for directory-naming:naming-java:0.8
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact directory-naming:naming-java:jar:sources:0.8
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing directory-naming:naming-java:jar:sources:0.8
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 16:28:25.502
+!MESSAGE Could not resolve artifact directory-naming:naming-java:jar:sources:0.8
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 16:28:25.503
+!MESSAGE Missing directory-naming:naming-java:jar:sources:0.8
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 16:28:25.608
+!MESSAGE Could not download sources for directory-naming:naming-core:0.8
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact directory-naming:naming-core:jar:sources:0.8
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing directory-naming:naming-core:jar:sources:0.8
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 16:28:25.609
+!MESSAGE Could not resolve artifact directory-naming:naming-core:jar:sources:0.8
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 16:28:25.609
+!MESSAGE Missing directory-naming:naming-core:jar:sources:0.8
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 16:28:25.715
+!MESSAGE Could not download sources for commons-logging:commons-logging:1.0.3
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact commons-logging:commons-logging:jar:sources:1.0.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing commons-logging:commons-logging:jar:sources:1.0.3
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 16:28:25.716
+!MESSAGE Could not resolve artifact commons-logging:commons-logging:jar:sources:1.0.3
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 16:28:25.716
+!MESSAGE Missing commons-logging:commons-logging:jar:sources:1.0.3
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 16:28:25.948
+!MESSAGE Preparing classpath changed notification lookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 16:28:25.949
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 16:28:25.962
+!MESSAGE classpath=126 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 16:28:25.965
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ lookify false 126
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 16:28:25.965
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 16:28:26.057
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 16:28:27.154
+!MESSAGE Could not download javadoc for directory-naming:naming-java:0.8
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact directory-naming:naming-java:jar:javadoc:0.8
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing directory-naming:naming-java:jar:javadoc:0.8
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 16:28:27.154
+!MESSAGE Could not resolve artifact directory-naming:naming-java:jar:javadoc:0.8
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 16:28:27.154
+!MESSAGE Missing directory-naming:naming-java:jar:javadoc:0.8
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 16:28:27.259
+!MESSAGE Could not download javadoc for directory-naming:naming-core:0.8
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact directory-naming:naming-core:jar:javadoc:0.8
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing directory-naming:naming-core:jar:javadoc:0.8
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 16:28:27.259
+!MESSAGE Could not resolve artifact directory-naming:naming-core:jar:javadoc:0.8
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 16:28:27.259
+!MESSAGE Missing directory-naming:naming-core:jar:javadoc:0.8
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 16:28:27.642
+!MESSAGE Preparing classpath changed notification lookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 16:28:27.643
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 16:28:27.647
+!MESSAGE classpath=126 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 16:28:27.649
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ lookify false 126
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 16:28:27.649
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 16:28:27.683
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 17:00:14.210
+!MESSAGE Could not download sources for antlr:antlr:2.7.7
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:jar:sources:2.7.7
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing antlr:antlr:jar:sources:2.7.7
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 17:00:14.210
+!MESSAGE Could not resolve artifact antlr:antlr:jar:sources:2.7.7
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 17:00:14.210
+!MESSAGE Missing antlr:antlr:jar:sources:2.7.7
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 17:00:21.279
+!MESSAGE Could not download sources for directory-naming:naming-java:0.8
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact directory-naming:naming-java:jar:sources:0.8
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing directory-naming:naming-java:jar:sources:0.8
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 17:00:21.280
+!MESSAGE Could not resolve artifact directory-naming:naming-java:jar:sources:0.8
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 17:00:21.280
+!MESSAGE Missing directory-naming:naming-java:jar:sources:0.8
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 17:00:21.378
+!MESSAGE Could not download sources for directory-naming:naming-core:0.8
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact directory-naming:naming-core:jar:sources:0.8
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing directory-naming:naming-core:jar:sources:0.8
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 17:00:21.379
+!MESSAGE Could not resolve artifact directory-naming:naming-core:jar:sources:0.8
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 17:00:21.379
+!MESSAGE Missing directory-naming:naming-core:jar:sources:0.8
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 17:00:21.487
+!MESSAGE Could not download sources for commons-logging:commons-logging:1.0.3
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact commons-logging:commons-logging:jar:sources:1.0.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing commons-logging:commons-logging:jar:sources:1.0.3
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 17:00:21.487
+!MESSAGE Could not resolve artifact commons-logging:commons-logging:jar:sources:1.0.3
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 17:00:21.487
+!MESSAGE Missing commons-logging:commons-logging:jar:sources:1.0.3
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:22.259
+!MESSAGE Preparing classpath changed notification lookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:22.260
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:22.264
+!MESSAGE classpath=126 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:22.265
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ lookify false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:22.266
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:22.300
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:22.977
+!MESSAGE Preparing classpath changed notification lookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:22.977
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:22.980
+!MESSAGE classpath=126 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:22.982
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ lookify false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:22.982
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:22.991
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 17:00:23.473
+!MESSAGE Could not download javadoc for antlr:antlr:2.7.7
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:jar:javadoc:2.7.7
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing antlr:antlr:jar:javadoc:2.7.7
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 17:00:23.473
+!MESSAGE Could not resolve artifact antlr:antlr:jar:javadoc:2.7.7
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 17:00:23.473
+!MESSAGE Missing antlr:antlr:jar:javadoc:2.7.7
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:24.823
+!MESSAGE Preparing classpath changed notification lookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:24.823
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:24.829
+!MESSAGE classpath=126 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:24.830
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ lookify false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:24.831
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:24.835
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 17:00:28.786
+!MESSAGE Could not download javadoc for directory-naming:naming-java:0.8
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact directory-naming:naming-java:jar:javadoc:0.8
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing directory-naming:naming-java:jar:javadoc:0.8
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 17:00:28.786
+!MESSAGE Could not resolve artifact directory-naming:naming-java:jar:javadoc:0.8
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 17:00:28.786
+!MESSAGE Missing directory-naming:naming-java:jar:javadoc:0.8
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 17:00:28.909
+!MESSAGE Could not download javadoc for directory-naming:naming-core:0.8
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact directory-naming:naming-core:jar:javadoc:0.8
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing directory-naming:naming-core:jar:javadoc:0.8
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 17:00:28.911
+!MESSAGE Could not resolve artifact directory-naming:naming-core:jar:javadoc:0.8
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 17:00:28.911
+!MESSAGE Missing directory-naming:naming-core:jar:javadoc:0.8
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:29.237
+!MESSAGE Preparing classpath changed notification lookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:29.237
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:29.245
+!MESSAGE classpath=126 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:29.247
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ lookify false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:29.247
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:29.256
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:29.443
+!MESSAGE Preparing classpath changed notification lookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:29.444
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:29.448
+!MESSAGE classpath=126 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:29.449
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ lookify false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:29.450
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:29.454
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:30.506
+!MESSAGE Preparing classpath changed notification lookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:30.506
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:30.510
+!MESSAGE classpath=126 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:30.513
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ lookify false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:30.517
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:30.523
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:31.548
+!MESSAGE Preparing classpath changed notification lookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:31.557
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:31.560
+!MESSAGE classpath=126 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:31.562
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ lookify false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:31.562
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:00:31.566
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:06.079
+!MESSAGE Preparing classpath changed notification lookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:06.081
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:06.084
+!MESSAGE classpath=126 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:06.086
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ lookify false 126
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:06.087
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:06.110
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.058
+!MESSAGE Preparing classpath changed notification Date
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.067
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.070
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.071
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ Date false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.072
+!MESSAGE Preparing classpath changed notification Strings
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.072
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.076
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.084
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ Strings false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.085
+!MESSAGE Preparing classpath changed notification TheCode
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.085
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.090
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.091
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ TheCode false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.092
+!MESSAGE Preparing classpath changed notification firstproject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.092
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.097
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.099
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ firstproject false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.101
+!MESSAGE Preparing classpath changed notification Hello
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.102
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.106
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.107
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ Hello false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.108
+!MESSAGE Preparing classpath changed notification Routing
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.108
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.111
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.112
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ Routing false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.113
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:02:59.169
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:03.044
+!MESSAGE Preparing classpath changed notification firstproject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:03.045
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:03.052
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:03.054
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ firstproject false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:03.054
+!MESSAGE Preparing classpath changed notification Hello
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:03.055
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:03.057
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:03.060
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ Hello false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:03.060
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:03.086
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:05.740
+!MESSAGE Preparing classpath changed notification Routing
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:05.741
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:05.743
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:05.745
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ Routing false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:05.745
+!MESSAGE Preparing classpath changed notification Strings
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:05.746
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:05.750
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:05.751
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ Strings false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:05.752
+!MESSAGE Preparing classpath changed notification TheCode
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:05.752
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:05.754
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:05.756
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ TheCode false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:05.756
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 3 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:05.774
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:13.451
+!MESSAGE Preparing classpath changed notification firstproject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:13.452
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:13.454
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:13.456
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ firstproject false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:13.456
+!MESSAGE Preparing classpath changed notification Strings
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:13.457
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:13.459
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:13.462
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ Strings false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:13.463
+!MESSAGE Preparing classpath changed notification Hello
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:13.464
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:13.466
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:13.467
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ Hello false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:13.468
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 3 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:13.509
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:14.500
+!MESSAGE Preparing classpath changed notification Date
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:14.503
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:14.506
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:14.507
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ Date false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:14.507
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:14.514
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:14.628
+!MESSAGE Preparing classpath changed notification TheCode
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:14.628
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:14.632
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:14.633
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ TheCode false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:14.634
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:14.640
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:15.066
+!MESSAGE Preparing classpath changed notification Routing
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:15.066
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:15.069
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:15.070
+!MESSAGE buffering callback sts4.classpath.CWBlCYmQ Routing false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:15.071
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:03:15.077
+!MESSAGE executing callback sts4.classpath.CWBlCYmQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:06:41.277
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.CWBlCYmQ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:06:41.283
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.CWBlCYmQ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:06:41.288
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:06:41.289
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.CWBlCYmQ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:25.556
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:25.565
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@14c7ab73[org.springframework.tooling.boot.ls:1.12.0.201910232051(id=626)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:25.570
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-11-11 17:13:31.232
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1771)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1915)
+	at org.springframework.tooling.boot.ls.jdt.LSPTextHover.getHoverInfo(LSPTextHover.java:109)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-11-11 17:13:46.273
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1771)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1915)
+	at org.eclipse.lsp4e.LanguageServerWrapper.supportsWorkspaceFolderCapability(LanguageServerWrapper.java:523)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:512)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:831)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.lambda$6(LanguageServiceAccessor.java:320)
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:174)
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:175)
+	at java.util.HashMap$KeySpliterator.forEachRemaining(HashMap.java:1556)
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:708)
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:499)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLSWrappers(LanguageServiceAccessor.java:321)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLanguageServers(LanguageServiceAccessor.java:511)
+	at org.springframework.tooling.boot.ls.jdt.LSPTextHover.initiateHoverRequest(LSPTextHover.java:230)
+	at org.springframework.tooling.boot.ls.jdt.LSPTextHover.getHoverInfo(LSPTextHover.java:106)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-11-11 17:13:46.771
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:347)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1915)
+	at org.eclipse.lsp4e.LanguageServerWrapper.supportsWorkspaceFolderCapability(LanguageServerWrapper.java:523)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:512)
+	at org.eclipse.lsp4e.LanguageServerWrapper.canOperate(LanguageServerWrapper.java:831)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.lambda$7(LanguageServiceAccessor.java:338)
+	at java.util.stream.MatchOps$1MatchSink.accept(MatchOps.java:90)
+	at java.util.HashMap$KeySpliterator.tryAdvance(HashMap.java:1577)
+	at java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:126)
+	at java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:499)
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:486)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
+	at java.util.stream.MatchOps$MatchOp.evaluateSequential(MatchOps.java:230)
+	at java.util.stream.MatchOps$MatchOp.evaluateSequential(MatchOps.java:196)
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.util.stream.ReferencePipeline.anyMatch(ReferencePipeline.java:449)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLSWrappers(LanguageServiceAccessor.java:337)
+	at org.eclipse.lsp4e.LanguageServiceAccessor.getLanguageServers(LanguageServiceAccessor.java:511)
+	at org.springframework.tooling.boot.ls.jdt.LSPTextHover.initiateHoverRequest(LSPTextHover.java:230)
+	at org.springframework.tooling.boot.ls.jdt.LSPTextHover.getHoverInfo(LSPTextHover.java:106)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-11-11 17:13:46.773
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:347)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1915)
+	at org.springframework.tooling.boot.ls.jdt.LSPTextHover.getHoverInfo(LSPTextHover.java:109)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.790
+!MESSAGE Boot LS startup time from start to initialized: 26211ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.882
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.KXGgTVqOisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.884
+!MESSAGE subscribing to classpath changes: sts4.classpath.KXGgTVqO isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.886
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.887
+!MESSAGE subsribers = {sts4.classpath.KXGgTVqO=Send Classpath Notifications(2461)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.887
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.888
+!MESSAGE project lookify ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.889
+!MESSAGE project Date ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.890
+!MESSAGE project DojoSurvey ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.890
+!MESSAGE Preparing classpath changed notification lookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.891
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.892
+!MESSAGE project Hello ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.893
+!MESSAGE project Routing ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.894
+!MESSAGE project Strings ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.894
+!MESSAGE project TheCode ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.895
+!MESSAGE project firstproject ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.895
+!MESSAGE project mvc ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.896
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.897
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.KXGgTVqO => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.903
+!MESSAGE classpath=127 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.906
+!MESSAGE buffering callback sts4.classpath.KXGgTVqO lookify false 127
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.906
+!MESSAGE Preparing classpath changed notification Date
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.907
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.911
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.913
+!MESSAGE buffering callback sts4.classpath.KXGgTVqO Date false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.914
+!MESSAGE Preparing classpath changed notification DojoSurvey
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.915
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.922
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.924
+!MESSAGE buffering callback sts4.classpath.KXGgTVqO DojoSurvey false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.925
+!MESSAGE Preparing classpath changed notification Hello
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.936
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.945
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.952
+!MESSAGE buffering callback sts4.classpath.KXGgTVqO Hello false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.952
+!MESSAGE Preparing classpath changed notification Routing
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.953
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.957
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.959
+!MESSAGE buffering callback sts4.classpath.KXGgTVqO Routing false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.960
+!MESSAGE Preparing classpath changed notification Strings
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.960
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.964
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.967
+!MESSAGE buffering callback sts4.classpath.KXGgTVqO Strings false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.967
+!MESSAGE Preparing classpath changed notification TheCode
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.968
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.972
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.973
+!MESSAGE buffering callback sts4.classpath.KXGgTVqO TheCode false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.974
+!MESSAGE Preparing classpath changed notification firstproject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.975
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.979
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.980
+!MESSAGE buffering callback sts4.classpath.KXGgTVqO firstproject false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.981
+!MESSAGE Preparing classpath changed notification mvc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:51.981
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:52.002
+!MESSAGE classpath=116 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:52.004
+!MESSAGE buffering callback sts4.classpath.KXGgTVqO mvc false 116
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:52.005
+!MESSAGE executing callback sts4.classpath.KXGgTVqO 9 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:13:52.441
+!MESSAGE executing callback sts4.classpath.KXGgTVqO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:23:02.261
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.KXGgTVqO
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:23:02.271
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.KXGgTVqO
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:23:02.277
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:23:02.277
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.KXGgTVqO => OK
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 17:24:23.242
+!MESSAGE Could not download sources for antlr:antlr:2.7.7
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:jar:sources:2.7.7
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing antlr:antlr:jar:sources:2.7.7
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 17:24:23.243
+!MESSAGE Could not resolve artifact antlr:antlr:jar:sources:2.7.7
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 17:24:23.243
+!MESSAGE Missing antlr:antlr:jar:sources:2.7.7
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 17:24:50.683
+!MESSAGE Could not download javadoc for antlr:antlr:2.7.7
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:jar:javadoc:2.7.7
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing antlr:antlr:jar:javadoc:2.7.7
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 17:24:50.684
+!MESSAGE Could not resolve artifact antlr:antlr:jar:javadoc:2.7.7
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 17:24:50.684
+!MESSAGE Missing antlr:antlr:jar:javadoc:2.7.7
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 17:24:52.542
+!MESSAGE Could not download sources for directory-naming:naming-java:0.8
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact directory-naming:naming-java:jar:sources:0.8
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing directory-naming:naming-java:jar:sources:0.8
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 17:24:52.542
+!MESSAGE Could not resolve artifact directory-naming:naming-java:jar:sources:0.8
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 17:24:52.542
+!MESSAGE Missing directory-naming:naming-java:jar:sources:0.8
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 17:24:52.650
+!MESSAGE Could not download sources for directory-naming:naming-core:0.8
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact directory-naming:naming-core:jar:sources:0.8
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing directory-naming:naming-core:jar:sources:0.8
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 17:24:52.650
+!MESSAGE Could not resolve artifact directory-naming:naming-core:jar:sources:0.8
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 17:24:52.650
+!MESSAGE Missing directory-naming:naming-core:jar:sources:0.8
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 17:24:52.746
+!MESSAGE Could not download sources for commons-logging:commons-logging:1.0.3
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact commons-logging:commons-logging:jar:sources:1.0.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing commons-logging:commons-logging:jar:sources:1.0.3
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 17:24:52.747
+!MESSAGE Could not resolve artifact commons-logging:commons-logging:jar:sources:1.0.3
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 17:24:52.747
+!MESSAGE Missing commons-logging:commons-logging:jar:sources:1.0.3
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 17:24:55.969
+!MESSAGE Could not download javadoc for directory-naming:naming-java:0.8
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact directory-naming:naming-java:jar:javadoc:0.8
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing directory-naming:naming-java:jar:javadoc:0.8
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 17:24:55.969
+!MESSAGE Could not resolve artifact directory-naming:naming-java:jar:javadoc:0.8
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 17:24:55.969
+!MESSAGE Missing directory-naming:naming-java:jar:javadoc:0.8
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-11-11 17:24:56.079
+!MESSAGE Could not download javadoc for directory-naming:naming-core:0.8
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact directory-naming:naming-core:jar:javadoc:0.8
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing directory-naming:naming-core:jar:javadoc:0.8
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2019-11-11 17:24:56.079
+!MESSAGE Could not resolve artifact directory-naming:naming-core:jar:javadoc:0.8
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2019-11-11 17:24:56.079
+!MESSAGE Missing directory-naming:naming-core:jar:javadoc:0.8
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:00.125
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:00.149
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@14c7ab73[org.springframework.tooling.boot.ls:1.12.0.201910232051(id=626)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:00.149
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.694
+!MESSAGE Boot LS startup time from start to initialized: 25526ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.907
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.WaXlKeZNisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.909
+!MESSAGE subscribing to classpath changes: sts4.classpath.WaXlKeZN isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.913
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.919
+!MESSAGE subsribers = {sts4.classpath.WaXlKeZN=Send Classpath Notifications(3317)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.920
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.920
+!MESSAGE project NewLookify ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.921
+!MESSAGE project lookify ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.921
+!MESSAGE Preparing classpath changed notification NewLookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.922
+!MESSAGE project Date ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.923
+!MESSAGE project DojoSurvey ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.923
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.923
+!MESSAGE project Hello ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.924
+!MESSAGE project Routing ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.924
+!MESSAGE project Strings ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.925
+!MESSAGE project TheCode ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.926
+!MESSAGE project firstproject ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.927
+!MESSAGE project mvc ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.927
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.928
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.WaXlKeZN => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.932
+!MESSAGE classpath=113 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.934
+!MESSAGE buffering callback sts4.classpath.WaXlKeZN NewLookify false 113
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.934
+!MESSAGE Preparing classpath changed notification lookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.935
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.942
+!MESSAGE classpath=127 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.944
+!MESSAGE buffering callback sts4.classpath.WaXlKeZN lookify false 127
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.945
+!MESSAGE Preparing classpath changed notification Date
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.946
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.962
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.973
+!MESSAGE buffering callback sts4.classpath.WaXlKeZN Date false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.973
+!MESSAGE Preparing classpath changed notification DojoSurvey
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.973
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.979
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.980
+!MESSAGE buffering callback sts4.classpath.WaXlKeZN DojoSurvey false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.980
+!MESSAGE Preparing classpath changed notification Hello
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.980
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.982
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.984
+!MESSAGE buffering callback sts4.classpath.WaXlKeZN Hello false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.984
+!MESSAGE Preparing classpath changed notification Routing
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.984
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.987
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.988
+!MESSAGE buffering callback sts4.classpath.WaXlKeZN Routing false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.989
+!MESSAGE Preparing classpath changed notification Strings
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.989
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.995
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.997
+!MESSAGE buffering callback sts4.classpath.WaXlKeZN Strings false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.997
+!MESSAGE Preparing classpath changed notification TheCode
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:25.998
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:26.000
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:26.001
+!MESSAGE buffering callback sts4.classpath.WaXlKeZN TheCode false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:26.002
+!MESSAGE Preparing classpath changed notification firstproject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:26.003
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:26.004
+!MESSAGE classpath=90 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:26.006
+!MESSAGE buffering callback sts4.classpath.WaXlKeZN firstproject false 90
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:26.006
+!MESSAGE Preparing classpath changed notification mvc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:26.008
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:26.012
+!MESSAGE classpath=116 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:26.013
+!MESSAGE buffering callback sts4.classpath.WaXlKeZN mvc false 116
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:26.013
+!MESSAGE executing callback sts4.classpath.WaXlKeZN 10 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:44:26.363
+!MESSAGE executing callback sts4.classpath.WaXlKeZN SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:51:06.040
+!MESSAGE Preparing classpath changed notification NewLookify
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:51:06.053
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:51:06.057
+!MESSAGE classpath=116 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:51:06.058
+!MESSAGE buffering callback sts4.classpath.WaXlKeZN NewLookify false 116
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:51:06.059
+!MESSAGE executing callback sts4.classpath.WaXlKeZN 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-11 17:51:06.136
+!MESSAGE executing callback sts4.classpath.WaXlKeZN SUCCESS [done]

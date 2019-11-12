@@ -23,7 +23,7 @@ public class BooksController {
         this.bookService = bookService;
     }
     
-    @RequestMapping("/books")
+    @RequestMapping("/")
     public String index(Model model) {
         List<Book> books = bookService.allBooks();
         model.addAttribute("books", books);
