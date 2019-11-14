@@ -8173,3 +8173,244 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact directory-nam
 2019-11-13 15:56:17,702 [Worker-373: Launching DojosNinjas - DojosNinjasApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-11-13 15:56:17,705 [Worker-373: Launching DojosNinjas - DojosNinjasApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-11-13 15:56:17,705 [Worker-373: Launching DojosNinjas - DojosNinjasApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/DojosNinjas/src/test/resources
+2019-11-13 16:02:15,581 [Worker-374: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kyle.web.ManyToMany:ManyToMany:0.0.1-SNAPSHOT @ /Users/Kyle/Desktop/springPlatform/ManyToMany/pom.xml.
+2019-11-13 16:02:17,300 [Worker-374: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManyToMany/src/main/java
+2019-11-13 16:02:17,301 [Worker-374: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManyToMany/src/main/resources
+2019-11-13 16:02:17,305 [Worker-374: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManyToMany/src/main/resources
+2019-11-13 16:02:17,311 [Worker-374: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManyToMany/src/test/java
+2019-11-13 16:02:19,071 [Worker-374: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2019-11-13 16:02:19,073 [Worker-374: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-11-13 16:02:20,806 [Worker-374: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kyle.web.ManyToMany:ManyToMany:0.0.1-SNAPSHOT @ /Users/Kyle/Desktop/springPlatform/ManyToMany/pom.xml.
+2019-11-13 16:02:22,441 [Worker-374: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManyToMany/src/main/java
+2019-11-13 16:02:22,441 [Worker-374: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManyToMany/src/main/resources
+2019-11-13 16:02:22,442 [Worker-374: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManyToMany/src/main/resources
+2019-11-13 16:02:22,442 [Worker-374: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManyToMany/src/test/java
+2019-11-13 16:02:22,761 [Worker-374: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ManyToMany
+2019-11-13 16:02:22,770 [Worker-374: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2019-11-13 16:02:24,223 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:02:24,224 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:02:24,226 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:02:24,228 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:02:24,228 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:02:24,229 [Worker-384: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ManyToMany
+2019-11-13 16:02:24,229 [Worker-384: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ManyToMany
+2019-11-13 16:02:24,234 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:07:26,140 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:07:26,142 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:07:26,142 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:07:26,144 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:07:26,144 [Worker-385: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:11:53,662 [Worker-395: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kyle.web.ManyToMany:ManyToMany:0.0.1-SNAPSHOT @ /Users/Kyle/Desktop/springPlatform/ManyToMany/pom.xml.
+2019-11-13 16:11:56,856 [Worker-395: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:11:56,858 [Worker-395: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:11:56,860 [Worker-395: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:11:56,862 [Worker-395: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:11:56,862 [Worker-395: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:11:56,863 [Worker-395: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ManyToMany
+2019-11-13 16:11:56,863 [Worker-395: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ManyToMany
+2019-11-13 16:11:56,868 [Worker-395: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:11:58,807 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:11:58,808 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:11:58,810 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:11:58,812 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:11:58,812 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:12:33,739 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:12:33,741 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:12:33,746 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:12:33,750 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:12:33,750 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/DojosNinjas/src/test/resources
+2019-11-13 16:12:38,733 [Worker-397: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:12:38,734 [Worker-397: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:12:38,745 [Worker-397: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:12:38,748 [Worker-397: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:12:38,749 [Worker-397: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/DojosNinjas/src/test/resources
+2019-11-13 16:13:02,583 [Worker-394: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:13:02,587 [Worker-394: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:13:02,591 [Worker-394: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:13:02,595 [Worker-394: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:13:02,596 [Worker-394: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:13:12,038 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:13:12,038 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:13:12,041 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:13:12,043 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:13:12,043 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:13:46,593 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:13:46,593 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:13:46,602 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:13:46,604 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:13:46,604 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:14:16,028 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:14:16,035 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:14:16,039 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:14:16,043 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:14:16,043 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:14:33,075 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:14:33,077 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:14:33,079 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:14:33,081 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:14:33,081 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:15:04,745 [Worker-401: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:15:04,746 [Worker-401: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:15:04,755 [Worker-401: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:15:04,757 [Worker-401: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:15:04,757 [Worker-401: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:15:16,239 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:15:16,239 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:15:16,286 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:15:16,290 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:15:16,290 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:15:36,378 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:15:36,379 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:15:36,386 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:15:36,388 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:15:36,388 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:15:49,416 [Worker-395: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:15:49,417 [Worker-395: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:15:49,418 [Worker-395: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:15:49,419 [Worker-395: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:15:49,419 [Worker-395: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:17:31,960 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:17:31,969 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:17:31,971 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:17:31,973 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:17:31,973 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:18:46,659 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:18:46,661 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:18:46,664 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:18:46,666 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:18:46,666 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:19:46,209 [Worker-395: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:19:46,215 [Worker-395: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:19:46,224 [Worker-395: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:19:46,229 [Worker-395: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:19:46,229 [Worker-395: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:20:05,359 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:20:05,360 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:20:05,362 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:20:05,367 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:20:05,367 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:20:26,196 [Worker-397: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:20:26,197 [Worker-397: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:20:26,200 [Worker-397: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:20:26,216 [Worker-397: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:20:26,216 [Worker-397: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:20:31,313 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:20:31,314 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:20:31,323 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:20:31,328 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:20:31,328 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:20:47,389 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:20:47,389 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:20:47,391 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:20:47,394 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:20:47,394 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:21:00,962 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:21:00,964 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:21:00,967 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:21:00,972 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:21:00,972 [Worker-399: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:21:27,146 [Worker-396: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:21:27,147 [Worker-396: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:21:27,149 [Worker-396: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:21:27,152 [Worker-396: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:21:27,152 [Worker-396: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:21:45,376 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:21:45,377 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:21:45,378 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:21:45,380 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:21:45,381 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:22:01,745 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:22:01,747 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 16:22:01,753 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:22:01,755 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:22:01,756 [Worker-384: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:32:23,111 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:32:23,113 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:32:23,114 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:32:23,119 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:32:23,119 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:32:45,653 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:32:45,658 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:32:45,658 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:32:45,660 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:32:45,660 [Worker-400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:33:41,354 [Worker-402: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:33:41,355 [Worker-402: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:33:41,355 [Worker-402: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:33:41,365 [Worker-402: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:33:41,365 [Worker-402: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 16:33:58,058 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:33:58,059 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:33:58,059 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 16:33:58,062 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 16:33:58,062 [Worker-398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 18:10:32,224 [Worker-408: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:10:32,228 [Worker-408: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 18:10:32,233 [Worker-408: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:10:32,237 [Worker-408: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:10:32,237 [Worker-408: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 18:10:33,108 [Worker-407: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:10:33,111 [Worker-407: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 18:10:33,113 [Worker-407: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:10:33,117 [Worker-407: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:10:33,117 [Worker-407: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 18:10:55,427 [Worker-409: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:10:55,429 [Worker-409: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 18:10:55,431 [Worker-409: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:10:55,433 [Worker-409: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:10:55,433 [Worker-409: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 18:17:48,910 [Worker-416: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:17:48,917 [Worker-416: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 18:17:48,919 [Worker-416: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:17:48,927 [Worker-416: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:17:48,927 [Worker-416: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 18:20:46,450 [Worker-413: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:20:46,457 [Worker-413: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:20:46,457 [Worker-413: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:20:46,460 [Worker-413: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:20:46,461 [Worker-413: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 18:20:58,085 [Worker-415: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:20:58,086 [Worker-415: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:20:58,086 [Worker-415: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:20:58,089 [Worker-415: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:20:58,089 [Worker-415: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 18:22:58,271 [Worker-419: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:22:58,274 [Worker-419: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:22:58,274 [Worker-419: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 18:22:58,404 [Worker-419: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:22:58,404 [Worker-419: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 18:23:35,334 [Worker-423: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:23:35,341 [Worker-423: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:23:35,341 [Worker-423: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 18:23:35,372 [Worker-423: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:23:35,373 [Worker-423: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 18:28:29,509 [Worker-426: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:28:29,510 [Worker-426: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:28:29,511 [Worker-426: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:28:29,514 [Worker-426: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:28:29,514 [Worker-426: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 18:31:52,058 [Worker-429: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:31:52,060 [Worker-429: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:31:52,060 [Worker-429: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:31:52,064 [Worker-429: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:31:52,064 [Worker-429: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 18:34:01,427 [Worker-426: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:34:01,431 [Worker-426: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:34:01,432 [Worker-426: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:34:01,435 [Worker-426: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:34:01,435 [Worker-426: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 18:35:54,482 [Worker-430: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:35:54,484 [Worker-430: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:35:54,485 [Worker-430: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:35:54,490 [Worker-430: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:35:54,490 [Worker-430: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 18:36:35,687 [Worker-432: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:36:35,692 [Worker-432: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:36:35,693 [Worker-432: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 18:36:35,700 [Worker-432: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:36:35,700 [Worker-432: Launching ManyToMany - ManyToManyApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
+2019-11-13 18:52:39,553 [Worker-437: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:52:39,556 [Worker-437: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:52:39,557 [Worker-437: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:52:39,574 [Worker-437: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:52:39,578 [Worker-437: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/ManyToMany/src/test/resources
