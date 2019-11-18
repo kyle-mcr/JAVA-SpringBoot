@@ -9158,3 +9158,609 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact directory-nam
 2019-11-14 16:14:11,353 [Worker-689: Launching JavaPlate - JavaPlateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
 2019-11-14 16:14:11,360 [Worker-689: Launching JavaPlate - JavaPlateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-11-14 16:14:11,360 [Worker-689: Launching JavaPlate - JavaPlateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaPlate/src/test/resources
+2019-11-14 17:01:00,315 [Worker-689: Launching JavaPlate - JavaPlateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-14 17:01:00,318 [Worker-689: Launching JavaPlate - JavaPlateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-14 17:01:00,319 [Worker-689: Launching JavaPlate - JavaPlateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-14 17:01:00,332 [Worker-689: Launching JavaPlate - JavaPlateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-14 17:01:00,332 [Worker-689: Launching JavaPlate - JavaPlateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaPlate/src/test/resources
+2019-11-14 17:05:15,923 [Worker-700: Launching JavaPlate - JavaPlateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-14 17:05:15,929 [Worker-700: Launching JavaPlate - JavaPlateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-14 17:05:15,929 [Worker-700: Launching JavaPlate - JavaPlateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-14 17:05:15,934 [Worker-700: Launching JavaPlate - JavaPlateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-14 17:05:15,934 [Worker-700: Launching JavaPlate - JavaPlateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaPlate/src/test/resources
+2019-11-15 09:31:32,291 [Worker-706: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kyle.web.JavaExam:JavaExam:0.0.1-SNAPSHOT @ /Users/Kyle/Desktop/springPlatform/JavaExam/pom.xml.
+2019-11-15 09:31:35,518 [Worker-706: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaExam/src/main/java
+2019-11-15 09:31:35,519 [Worker-706: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JavaExam/src/main/resources
+2019-11-15 09:31:35,545 [Worker-706: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JavaExam/src/main/resources
+2019-11-15 09:31:35,689 [Worker-706: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaExam/src/test/java
+2019-11-15 09:31:38,919 [Worker-706: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2019-11-15 09:31:38,925 [Worker-706: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-11-15 09:31:39,945 [Worker-706: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kyle.web.JavaExam:JavaExam:0.0.1-SNAPSHOT @ /Users/Kyle/Desktop/springPlatform/JavaExam/pom.xml.
+2019-11-15 09:31:42,888 [Worker-706: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaExam/src/main/java
+2019-11-15 09:31:42,890 [Worker-706: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JavaExam/src/main/resources
+2019-11-15 09:31:42,890 [Worker-706: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JavaExam/src/main/resources
+2019-11-15 09:31:42,891 [Worker-706: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JavaExam/src/test/java
+2019-11-15 09:31:43,682 [Worker-706: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JavaExam
+2019-11-15 09:31:43,713 [Worker-706: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2019-11-15 09:31:47,719 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:31:47,720 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:31:47,724 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:31:47,727 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:31:47,727 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:31:47,728 [Worker-692: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JavaExam
+2019-11-15 09:31:47,728 [Worker-692: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JavaExam
+2019-11-15 09:31:47,747 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:36:13,063 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:36:13,066 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:36:13,071 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:36:13,074 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:36:13,074 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:36:49,493 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:36:49,494 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:36:49,497 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:36:49,499 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:36:49,499 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:37:04,481 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:37:04,481 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:37:04,483 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:37:04,485 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:37:04,486 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:37:20,986 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:37:20,987 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:37:20,991 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:37:20,996 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:37:20,996 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:37:34,432 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:37:34,436 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:37:34,445 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:37:34,452 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:37:34,452 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:37:48,833 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:37:48,833 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:37:48,835 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:37:48,837 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:37:48,838 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:38:11,645 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:38:11,648 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:38:11,664 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:38:11,668 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:38:11,668 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:38:28,552 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:38:28,553 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:38:28,556 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:38:28,560 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:38:28,560 [Worker-707: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:38:52,399 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:38:52,401 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:38:52,406 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:38:52,414 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:38:52,414 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:39:09,654 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:39:09,656 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:39:09,658 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:39:09,661 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:39:09,661 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:39:28,155 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:39:28,164 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:39:28,169 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:39:28,175 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:39:28,176 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:39:47,240 [Worker-710: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:39:47,242 [Worker-710: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:39:47,247 [Worker-710: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:39:47,249 [Worker-710: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:39:47,249 [Worker-710: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:40:04,754 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:40:04,757 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:40:04,761 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:40:04,766 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:40:04,766 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:40:58,482 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:40:58,484 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:40:58,484 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:40:58,489 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:40:58,489 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:42:08,447 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:42:08,448 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:42:08,448 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:42:08,451 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:42:08,451 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:42:31,625 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:42:31,635 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:42:31,636 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:42:31,662 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:42:31,662 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:42:46,154 [Worker-711: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:42:46,158 [Worker-711: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:42:46,161 [Worker-711: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:42:46,165 [Worker-711: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:42:46,165 [Worker-711: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:43:00,439 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:43:00,441 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:43:00,443 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:43:00,457 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:43:00,468 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:43:01,512 [Worker-711: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:43:01,514 [Worker-711: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:43:01,514 [Worker-711: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:43:01,519 [Worker-711: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:43:01,520 [Worker-711: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:43:47,284 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:43:47,288 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:43:47,291 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:43:47,294 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:43:47,295 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:43:48,337 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:43:48,338 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:43:48,338 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:43:48,341 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:43:48,341 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:44:06,521 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:44:06,521 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:44:06,521 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:44:06,523 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:44:06,524 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:44:18,539 [Worker-710: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:44:18,540 [Worker-710: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:44:18,540 [Worker-710: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:44:18,542 [Worker-710: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:44:18,542 [Worker-710: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:44:33,129 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:44:33,130 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:44:33,130 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:44:33,134 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:44:33,134 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:44:34,169 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:44:34,169 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:44:34,169 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:44:34,177 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:44:34,179 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:46:17,339 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:46:17,341 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:46:17,341 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:46:17,343 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:46:17,343 [Worker-708: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:46:17,479 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:46:17,480 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:46:17,480 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:46:17,485 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:46:17,485 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:46:25,837 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:46:25,839 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:46:25,840 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:46:25,851 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:46:25,851 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:47:17,968 [Worker-710: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:47:17,970 [Worker-710: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:47:17,970 [Worker-710: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:47:17,983 [Worker-710: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:47:17,983 [Worker-710: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:47:18,127 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:47:18,128 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:47:18,128 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:47:18,131 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:47:18,131 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:47:40,741 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:47:40,742 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:47:40,743 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:47:40,749 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:47:40,749 [Worker-692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:47:41,773 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:47:41,773 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:47:41,773 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:47:41,778 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:47:41,778 [Worker-705: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:47:51,835 [Worker-700: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:47:51,836 [Worker-700: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:47:51,836 [Worker-700: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:47:51,840 [Worker-700: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:47:51,840 [Worker-700: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:48:36,480 [Worker-700: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:48:36,480 [Worker-700: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:48:36,481 [Worker-700: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:48:36,483 [Worker-700: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:48:36,483 [Worker-700: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:48:37,499 [Worker-713: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:48:37,499 [Worker-713: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 09:48:37,499 [Worker-713: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:48:37,500 [Worker-713: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:48:37,500 [Worker-713: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:51:57,654 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:51:57,657 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:51:57,659 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-11-15 09:51:57,662 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:51:57,662 [Worker-712: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 09:52:05,314 [Worker-700: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:52:05,315 [Worker-700: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 09:52:05,316 [Worker-700: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-11-15 09:52:05,324 [Worker-700: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 09:52:05,324 [Worker-700: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:13:34,385 [Worker-715: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kyle.web.JavaExam:JavaExam:0.0.1-SNAPSHOT @ /Users/Kyle/Desktop/springPlatform/JavaExam/pom.xml.
+2019-11-15 10:13:37,760 [Worker-715: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:13:37,761 [Worker-715: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 10:13:37,761 [Worker-715: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 10:13:37,765 [Worker-715: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:13:37,765 [Worker-715: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:13:37,765 [Worker-715: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JavaExam
+2019-11-15 10:13:37,766 [Worker-715: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JavaExam
+2019-11-15 10:13:37,781 [Worker-715: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:13:41,432 [Worker-719: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:13:41,433 [Worker-719: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 10:13:41,435 [Worker-719: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-11-15 10:13:41,441 [Worker-719: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:13:41,441 [Worker-719: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:13:49,553 [Worker-715: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:13:49,555 [Worker-715: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 10:13:49,557 [Worker-715: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-11-15 10:13:49,560 [Worker-715: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:13:49,561 [Worker-715: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:13:50,647 [Worker-719: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:13:50,648 [Worker-719: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 10:13:50,649 [Worker-719: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-11-15 10:13:50,654 [Worker-719: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:13:50,654 [Worker-719: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:15:59,926 [Worker-719: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:15:59,927 [Worker-719: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 10:15:59,927 [Worker-719: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 10:15:59,931 [Worker-719: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:15:59,931 [Worker-719: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:16:33,046 [Worker-718: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:16:33,048 [Worker-718: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 10:16:33,048 [Worker-718: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 10:16:33,056 [Worker-718: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:16:33,057 [Worker-718: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:16:59,099 [Worker-717: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:16:59,100 [Worker-717: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 10:16:59,100 [Worker-717: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 10:16:59,102 [Worker-717: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:16:59,102 [Worker-717: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:21:28,528 [Worker-722: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:21:28,529 [Worker-722: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 10:21:28,530 [Worker-722: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 10:21:28,533 [Worker-722: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:21:28,533 [Worker-722: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:26:02,692 [Worker-723: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:26:02,694 [Worker-723: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 10:26:02,698 [Worker-723: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-11-15 10:26:02,702 [Worker-723: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:26:02,702 [Worker-723: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:32:26,934 [Worker-725: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:32:26,936 [Worker-725: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 10:32:26,939 [Worker-725: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-11-15 10:32:26,942 [Worker-725: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:32:26,942 [Worker-725: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:32:47,751 [Worker-723: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:32:47,752 [Worker-723: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 10:32:47,756 [Worker-723: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-11-15 10:32:47,758 [Worker-723: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:32:47,758 [Worker-723: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:33:02,284 [Worker-724: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:33:02,285 [Worker-724: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 10:33:02,288 [Worker-724: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-11-15 10:33:02,291 [Worker-724: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:33:02,291 [Worker-724: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:33:47,475 [Worker-724: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:33:47,485 [Worker-724: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 10:33:47,485 [Worker-724: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 10:33:47,495 [Worker-724: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:33:47,496 [Worker-724: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:33:48,720 [Worker-725: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:33:48,721 [Worker-725: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 10:33:48,723 [Worker-725: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-11-15 10:33:48,729 [Worker-725: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:33:48,729 [Worker-725: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:33:51,062 [Worker-726: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:33:51,063 [Worker-726: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 10:33:51,067 [Worker-726: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-11-15 10:33:51,072 [Worker-726: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:33:51,072 [Worker-726: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:34:42,486 [Worker-726: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:34:42,489 [Worker-726: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 10:34:42,493 [Worker-726: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-11-15 10:34:42,502 [Worker-726: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:34:42,502 [Worker-726: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:41:38,763 [Worker-730: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:41:38,765 [Worker-730: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 10:41:38,768 [Worker-730: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-11-15 10:41:38,772 [Worker-730: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:41:38,772 [Worker-730: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:46:25,549 [Worker-729: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:46:25,551 [Worker-729: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 10:46:25,554 [Worker-729: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-11-15 10:46:25,558 [Worker-729: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:46:25,558 [Worker-729: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:50:11,864 [Worker-725: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:50:11,872 [Worker-725: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 10:50:11,872 [Worker-725: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 10:50:11,875 [Worker-725: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:50:11,875 [Worker-725: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:52:56,079 [Worker-731: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:52:56,081 [Worker-731: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 10:52:56,081 [Worker-731: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 10:52:56,089 [Worker-731: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:52:56,089 [Worker-731: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 10:54:47,989 [Worker-732: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:54:48,004 [Worker-732: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 10:54:48,004 [Worker-732: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 10:54:48,008 [Worker-732: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 10:54:48,008 [Worker-732: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:02:11,140 [Worker-739: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:02:11,142 [Worker-739: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 11:02:11,150 [Worker-739: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-11-15 11:02:11,168 [Worker-739: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:02:11,169 [Worker-739: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:08:21,105 [Worker-738: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:08:21,112 [Worker-738: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:08:21,113 [Worker-738: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 11:08:21,140 [Worker-738: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:08:21,140 [Worker-738: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:08:21,853 [Worker-744: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:08:21,854 [Worker-744: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:08:21,854 [Worker-744: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 11:08:21,861 [Worker-744: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:08:21,861 [Worker-744: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:12:45,604 [Worker-747: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:12:45,606 [Worker-747: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:12:45,606 [Worker-747: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:12:45,624 [Worker-747: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:12:45,624 [Worker-747: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:18:52,800 [Worker-749: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:18:52,804 [Worker-749: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 11:18:52,808 [Worker-749: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-11-15 11:18:52,813 [Worker-749: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:18:52,813 [Worker-749: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:24:41,523 [Worker-757: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:24:41,526 [Worker-757: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:24:41,526 [Worker-757: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:24:41,532 [Worker-757: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:24:41,532 [Worker-757: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:26:06,480 [Worker-749: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:26:06,485 [Worker-749: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:26:06,485 [Worker-749: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:26:06,489 [Worker-749: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:26:06,489 [Worker-749: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:26:45,936 [Worker-749: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:26:45,942 [Worker-749: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:26:45,943 [Worker-749: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:26:45,948 [Worker-749: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:26:45,949 [Worker-749: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:29:39,957 [Worker-758: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:29:39,959 [Worker-758: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:29:39,959 [Worker-758: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:29:39,963 [Worker-758: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:29:39,963 [Worker-758: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:39:14,035 [Worker-764: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:39:14,037 [Worker-764: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:39:14,037 [Worker-764: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:39:14,040 [Worker-764: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:39:14,040 [Worker-764: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:39:14,184 [Worker-748: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:39:14,185 [Worker-748: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:39:14,185 [Worker-748: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:39:14,188 [Worker-748: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:39:14,189 [Worker-748: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:41:28,990 [Worker-760: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:41:28,994 [Worker-760: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:41:28,994 [Worker-760: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:41:29,006 [Worker-760: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:41:29,006 [Worker-760: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:44:04,738 [Worker-772: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:44:04,740 [Worker-772: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:44:04,740 [Worker-772: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:44:04,743 [Worker-772: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:44:04,743 [Worker-772: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:47:26,831 [Worker-772: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:47:26,833 [Worker-772: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:47:26,833 [Worker-772: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:47:26,837 [Worker-772: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:47:26,841 [Worker-772: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:47:38,613 [Worker-760: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:47:38,614 [Worker-760: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:47:38,614 [Worker-760: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:47:38,616 [Worker-760: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:47:38,616 [Worker-760: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:49:01,381 [Worker-777: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:49:01,384 [Worker-777: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:49:01,384 [Worker-777: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:49:01,388 [Worker-777: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:49:01,388 [Worker-777: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:51:25,569 [Worker-773: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:51:25,572 [Worker-773: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:51:25,573 [Worker-773: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:51:25,577 [Worker-773: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:51:25,577 [Worker-773: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:52:45,525 [Worker-767: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:52:45,530 [Worker-767: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:52:45,531 [Worker-767: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:52:45,537 [Worker-767: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:52:45,537 [Worker-767: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 11:58:53,446 [Worker-785: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:58:53,449 [Worker-785: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:58:53,451 [Worker-785: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 11:58:53,456 [Worker-785: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 11:58:53,457 [Worker-785: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:00:05,195 [Worker-789: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:00:05,198 [Worker-789: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:00:05,198 [Worker-789: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:00:05,205 [Worker-789: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:00:05,206 [Worker-789: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:03:29,306 [Worker-793: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:03:29,308 [Worker-793: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:03:29,309 [Worker-793: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:03:29,314 [Worker-793: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:03:29,315 [Worker-793: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:06:23,982 [Worker-788: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:06:23,985 [Worker-788: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:06:23,985 [Worker-788: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:06:23,998 [Worker-788: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:06:23,998 [Worker-788: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:09:10,653 [Worker-799: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:09:10,656 [Worker-799: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:09:10,657 [Worker-799: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:09:10,668 [Worker-799: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:09:10,668 [Worker-799: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:12:02,885 [Worker-798: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:12:02,888 [Worker-798: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:12:02,889 [Worker-798: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:12:02,896 [Worker-798: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:12:02,896 [Worker-798: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:13:24,391 [Worker-801: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:13:24,394 [Worker-801: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:13:24,395 [Worker-801: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:13:24,402 [Worker-801: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:13:24,402 [Worker-801: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:15:38,878 [Worker-805: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:15:38,880 [Worker-805: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:15:38,881 [Worker-805: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:15:38,886 [Worker-805: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:15:38,886 [Worker-805: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:19:25,380 [Worker-811: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:19:25,383 [Worker-811: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:19:25,384 [Worker-811: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:19:25,391 [Worker-811: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:19:25,391 [Worker-811: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:20:47,165 [Worker-806: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:20:47,189 [Worker-806: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:20:47,192 [Worker-806: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-11-15 12:20:47,198 [Worker-806: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:20:47,198 [Worker-806: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:21:37,635 [Worker-806: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:21:37,636 [Worker-806: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:21:37,639 [Worker-806: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-11-15 12:21:37,642 [Worker-806: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:21:37,642 [Worker-806: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:23:38,029 [Worker-815: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:23:38,031 [Worker-815: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:23:38,032 [Worker-815: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:23:38,036 [Worker-815: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:23:38,036 [Worker-815: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:25:57,785 [Worker-819: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:25:57,788 [Worker-819: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:25:57,789 [Worker-819: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:25:57,797 [Worker-819: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:25:57,798 [Worker-819: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:27:32,726 [Worker-820: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:27:32,728 [Worker-820: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:27:32,729 [Worker-820: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:27:32,737 [Worker-820: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:27:32,737 [Worker-820: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:29:00,968 [Worker-821: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:29:00,969 [Worker-821: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:29:00,970 [Worker-821: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:29:00,979 [Worker-821: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:29:00,979 [Worker-821: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:30:37,691 [Worker-826: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:30:37,692 [Worker-826: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:30:37,699 [Worker-826: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:30:37,703 [Worker-826: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:30:37,703 [Worker-826: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:31:37,767 [Worker-826: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:31:37,769 [Worker-826: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:31:37,770 [Worker-826: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:31:37,779 [Worker-826: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:31:37,779 [Worker-826: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:35:31,148 [Worker-822: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:35:31,152 [Worker-822: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:35:31,155 [Worker-822: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:35:31,161 [Worker-822: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:35:31,161 [Worker-822: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:37:45,594 [Worker-833: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:37:45,596 [Worker-833: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:37:45,597 [Worker-833: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:37:45,604 [Worker-833: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:37:45,604 [Worker-833: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:40:38,511 [Worker-838: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:40:38,513 [Worker-838: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:40:38,513 [Worker-838: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:40:38,520 [Worker-838: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:40:38,520 [Worker-838: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:42:26,371 [Worker-838: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:42:26,373 [Worker-838: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:42:26,374 [Worker-838: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:42:26,386 [Worker-838: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:42:26,386 [Worker-838: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:43:14,241 [Worker-839: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:43:14,246 [Worker-839: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:43:14,246 [Worker-839: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:43:14,251 [Worker-839: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:43:14,252 [Worker-839: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:47:48,014 [Worker-841: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:47:48,016 [Worker-841: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:47:48,016 [Worker-841: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:47:48,019 [Worker-841: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:47:48,019 [Worker-841: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:49:37,075 [Worker-836: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:49:37,084 [Worker-836: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:49:37,084 [Worker-836: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:49:37,100 [Worker-836: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:49:37,100 [Worker-836: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:51:01,016 [Worker-836: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:51:01,021 [Worker-836: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:51:01,025 [Worker-836: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-15 12:51:01,038 [Worker-836: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:51:01,038 [Worker-836: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:51:53,432 [Worker-835: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:51:53,433 [Worker-835: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:51:53,433 [Worker-835: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:51:53,442 [Worker-835: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:51:53,442 [Worker-835: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 12:59:05,823 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:59:05,829 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:59:05,829 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 12:59:05,832 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 12:59:05,833 [Worker-851: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 13:03:37,243 [Worker-854: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:03:37,245 [Worker-854: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:03:37,245 [Worker-854: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:03:37,249 [Worker-854: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:03:37,249 [Worker-854: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 13:04:25,677 [Worker-854: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:04:25,679 [Worker-854: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:04:25,680 [Worker-854: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:04:25,684 [Worker-854: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:04:25,684 [Worker-854: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 13:05:09,578 [Worker-857: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:05:09,579 [Worker-857: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:05:09,579 [Worker-857: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:05:09,586 [Worker-857: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:05:09,586 [Worker-857: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 13:06:39,022 [Worker-856: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:06:39,038 [Worker-856: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:06:39,038 [Worker-856: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:06:39,046 [Worker-856: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:06:39,047 [Worker-856: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 13:08:10,099 [Worker-854: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:08:10,117 [Worker-854: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:08:10,118 [Worker-854: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:08:10,122 [Worker-854: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:08:10,122 [Worker-854: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 13:10:46,777 [Worker-860: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:10:46,778 [Worker-860: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:10:46,779 [Worker-860: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:10:46,782 [Worker-860: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:10:46,782 [Worker-860: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 13:11:55,685 [Worker-862: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:11:55,687 [Worker-862: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:11:55,687 [Worker-862: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:11:55,692 [Worker-862: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:11:55,692 [Worker-862: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 13:22:14,174 [Worker-861: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:22:14,175 [Worker-861: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:22:14,176 [Worker-861: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:22:14,182 [Worker-861: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:22:14,182 [Worker-861: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 13:23:27,984 [Worker-856: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:23:27,986 [Worker-856: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:23:27,986 [Worker-856: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:23:27,990 [Worker-856: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:23:27,990 [Worker-856: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 13:25:18,822 [Worker-861: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:25:18,824 [Worker-861: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:25:18,826 [Worker-861: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:25:18,830 [Worker-861: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:25:18,830 [Worker-861: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources
+2019-11-15 13:30:27,045 [Worker-879: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:30:27,048 [Worker-879: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:30:27,048 [Worker-879: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-15 13:30:27,053 [Worker-879: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-15 13:30:27,054 [Worker-879: Launching JavaExam - JavaExamApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Kyle/Desktop/springPlatform/JavaExam/src/test/resources

@@ -11,17 +11,13 @@
 </head>
 <body>
 	<div class="container1">
-	<h1>Add a movie!</h1>
-    	<p><form:errors path="movie.*"/></p>
+	<h1>Add an Idea!</h1>
+    	<p><form:errors path="idea.*"/></p>
     
-    <form:form method="POST" action="/new" modelAttribute="movie">
+    <form:form method="POST" action="/new" modelAttribute="idea">
         <p>
-            <form:label path="title"></form:label>
-            <form:input type="text" placeholder="Title" path="title"/>
-        </p>
-        <p>
-            <form:label path="description"></form:label>
-            <form:input type="text" placeholder="Description" path="description"/>
+            <form:label path="content"></form:label>
+            <form:input type="text" placeholder="Content" path="content"/>
         </p>
         
         <input class="button" type="submit" value="Add"/>
