@@ -23,4 +23,7 @@ public class HomeController {
 		return "Result.jsp";
 	}
 
+
+	
+
 }
